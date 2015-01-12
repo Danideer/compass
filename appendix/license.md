@@ -1,12 +1,13 @@
-# Attribution-NonCommercial-ShareAlike 4.0 International
+# Attribution-NonCommercial-ShareAlike 4.0 International 
 
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License")
-<p>
+
 [Project Compass](https://github.com/brennanbrown/compass/edit/master/LICENSE) by [Brennan Kenneth Brown](http://brennanbrown.github.io) is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 
 ## Freedoms
 
 **Share** — copy and redistribute the material in any medium or format
+
 **Adapt** — remix, transform, and build upon the material
 
 The licensor cannot revoke these freedoms as long as you follow the license terms.
