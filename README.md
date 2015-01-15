@@ -1,4 +1,3 @@
-===============
 Project Compass
 ===============
 
@@ -6,7 +5,6 @@ Project Compass
 
 Feel free to fork or copy any of this information. If this project interests you, please have a look at the main inspiration for this project, [Codex Virtae](http://wayoftheduck.com/codex-vitae) by [Buster Benson](http://busterbenson.com). Visit his repo [here](https://github.com/busterbenson/public).
 
------------
 Explanation
 -----------
 
@@ -16,13 +14,11 @@ For more information, visit the [Meta](/appendix/meta.md) document, where more o
 
 If there's anything else you're curious about or you're interested in collaborating with me on this, feel free to [drop me an email](mailto:brennankbrown@outlook.com).
 
-=======
 Outline
 =======
 
 This outline contains a brief description of each section and every file within compass.
 
---------
 Lifelong
 --------
 
@@ -36,7 +32,6 @@ These documents are permanent, and slowly (or quickly) change over the course of
 
 **Summary** — A streamlined version of the Codex and Habits files that can quickly understand things in compression.
 
--------
 Interim
 -------
 
@@ -48,7 +43,6 @@ In juxtaposition to the files in the lifelong section, interim are collections o
 
 **Reports** — Information exported from self-quantification devices, services, etc.
 
---------
 Appendix
 --------
 
